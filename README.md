@@ -489,19 +489,17 @@ Learned Policy:
 
 
 Average reward over last 1000 episodes: 
-```
 <img width="876" height="570" alt="image" src="https://github.com/user-attachments/assets/589dbcff-2523-4b33-b875-21f8c0ba5d08" />
 
 
----
+
 
 ## Result
-```
+
 The On-Policy Monte Carlo Control algorithm was successfully implemented using Gymnasium's FrozenLake-v1 environment. The agent learned an improved policy using Monte Carlo returns and an epsilon-greedy strategy.
 ---
-```
+
 ## Inference
-```
 
 The agent initially performs more exploration because the epsilon value starts at 1.0. As the number of training episodes increases, epsilon decreases toward the minimum value of 0.05.
 
