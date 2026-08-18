@@ -472,9 +472,6 @@ env.close()
 ---
 
 ## Output
-
-```text
-
 <img width="712" height="312" alt="image" src="https://github.com/user-attachments/assets/95e94e0f-afab-4484-8706-683919bfe5d7" />
 
 Final Q-table:
